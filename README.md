@@ -10,7 +10,7 @@
 The project follows a structured approach to data analysis using Pandas, covering each major phase of the process:
 
 ## **Important Links**
-### [LINKEDIN POST](https://www.linkedin.com/posts/amaresam-sai-bharath-chand-47ba50168_hello-my-awesome-%F0%9D%90%8B%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A4%F0%9D%90%9E%F0%9D%90%9D%F0%9D%90%88%F0%9D%90%A7-network-activity-7249829602448056320-hq3X?utm_source=share&utm_medium=member_desktop)
+### [LINKEDIN POST](https://www.linkedin.com/posts/amaresam-sai-bharath-chand-47ba50168_pandas-presentation-activity-7321424259795324928-kLEl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgFj58BoP2A-0POvwS4i3iyqDd6SpSslbo)
 ### <code style= "color : Blue">PRESENTATION</code> ( refer attachment )
 
 ## 📌 What’s Inside?
